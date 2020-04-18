@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713555882251",
+    "firebase_url": "https://otplogin-70464.firebaseio.com",
+    "project_id": "otplogin-70464",
+    "storage_bucket": "otplogin-70464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713555882251:android:81bd803118e70a02b2320e",
+        "android_client_info": {
+          "package_name": "com.example.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713555882251-g8n5i4ta23hrj6dg8do91qho5navpmrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otplogin",
+            "certificate_hash": "3156ada5fb08c74489ed9f52e787e920ed16f767"
+          }
+        },
+        {
+          "client_id": "713555882251-b7rbmsqk7ersjjq0qcqr42k4ruiggs39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jibfxvmMyR6pRt54eA4dLPqMAMXT-CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713555882251-b7rbmsqk7ersjjq0qcqr42k4ruiggs39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
